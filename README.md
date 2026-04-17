@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm Arturo Alonso 🛠️🛰️
 
-<!--
-**artuap/Artuap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formerly a specialist in **measurement and control instrumentation**, I have pivoted my career toward **Embedded Systems engineering**. I focus on bridging the gap between high-precision physical hardware and reliable firmware, ISO/MISRA guidelines for safety-critical applications.
 
-Here are some ideas to get you started:
+### 🔭 Technical Expertise & Focus
+* **Embedded Systems:** High-integrity development in **C/C++** and **Python** for automation and IoT.
+* **Precision Hardware:** Specialized in **Optical Absolute Encoders** and **EDM (Electromagnetic Distance Measurement)** technologies.
+* **Metrology & Control:** Deep knowledge of sensor integration, signal processing, and geomatic instrumentation (Sokkia/Topcon).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Toolbox
+* **Languages:** C, C++, Python, C#.
+* **Hardware:** STM32, ESP32, Atmel/Qualcomm, Raspberry Pi, Total Stations, .
+* **Environment:** VS Code + PlatformIO, Git/GitHub, Linux (Raspberry Pi OS).
+
+### 📍 Location
+Based in **Puebla de Los Angeles**, Mexico. 🇲🇽
+
+---
+
+### 🚀 Featured Projects
+* **[Atmospheric data acquisition](https://github.com/Artuap/ESP32_WebScrapping):** Professional environmental monitoring system using ESP32 and BME280.
+* **[Useful Toolbox](https://github.com/Artuap/Swiz_Army_Knife):** A collection of reusable C++ embedded code and geodetic Python scripts.
+
+---
+
+[<img src="https://github-readme-stats.vercel.app/api?username=Artuap&show_icons=true&theme=tokyonight" alt="GitHub Stats" />](https://github.com/anuraghazra/github-readme-stats)
