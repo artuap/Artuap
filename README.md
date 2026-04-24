@@ -3,8 +3,8 @@
 Formerly a specialist in **measurement and control instrumentation**, I have pivoted my career toward **Embedded Systems engineering**. I focus on bridging the gap between high-precision physical hardware and reliable firmware, MISRA guidelines for safety-critical applications.
 
 ### 🔭 Technical Expertise & Focus
-* **Embedded Systems:** High-integrity development in **C/C++** and **Python** for automation and IoT.
-* **Precision Hardware:** Specialized in **Optical Absolute Encoders** and **EDM (Electromagnetic Distance Measurement)** technologies.
+* **Embedded Systems:** High-integrity development in **C/C++** and **Python** for automation, instrumentation and IoT.
+* **Precision Hardware:** Specialized in **Optical Absolute Encoders,IMU-INS** ** and **EDM (Electromagnetic Distance Measurement)** technologies.
 * **Metrology & Control:**Geomatic instrumentation Qgis.
 
 ### 🔧 Technical Toolbox
