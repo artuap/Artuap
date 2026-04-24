@@ -1,3 +1,12 @@
+<h2 align="center">
+  <marquee border="0" p="2" direction="left" scrollamount="8">
+    <span>💻 Hola soy Arturo...</span> 
+    <span> 🛠️ Refactorizando código bajo normas MISRA C C++...</span> 
+    <span> 📡 Monitoreando frecuencias...</span> 
+    <span> 🗺️ Automatizando Geomatica...</span>
+  </marquee>
+</h2>
+
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
     <kbd><b>🚀 Bienvenido a mi espacio de desarrollo | Sistemas Embebidos | Geonática | Radiofrecuencia 🛰️</b></kbd>
