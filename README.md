@@ -1,11 +1,6 @@
-<h2 align="center">
-  <marquee border="0" p="2" direction="left" scrollamount="8">
-    <span>💻 Hola soy Arturo...</span> 
-    <span> 🛠️ Refactorizando código bajo normas MISRA C C++...</span> 
-    <span> 📡 Monitoreando frecuencias...</span> 
-    <span> 🗺️ Automatizando Geomatica...</span>
-  </marquee>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=true&vCenter=true&width=600&lines=ESTE+TEXTO+SE+MUEVE+CONTINUAMENTE+Y+NO+ES+ESTATICO+🚀" alt="Hi there I´m Arturo intrument for change times" />
+</p>
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
