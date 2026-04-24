@@ -1,4 +1,8 @@
-# Hi! I'm Arturo Alonso 🛠️🛰️
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
+    <kbd><b>🚀 Bienvenido a mi espacio de desarrollo | Sistemas Embebidos | Geonática | Radiofrecuencia 🛰️</b></kbd>
+  </marquee>
+</div>
 
 Formerly a specialist in **measurement and control instrumentation**, I have pivoted my career toward **Embedded Systems engineering**. I focus on bridging the gap between high-precision physical hardware and reliable firmware, MISRA guidelines for safety-critical applications.
 
