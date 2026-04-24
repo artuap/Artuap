@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=true&vCenter=true&width=600&lines=ESTE+TEXTO+SE+MUEVE+CONTINUAMENTE+Y+NO+ES+ESTATICO+🚀" alt="Hi there I´m Arturo intrument for change times" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=36BCF7&center=true&vCenter=true&width=600&lines=ESTE+TEXTO+SE+MUEVE+CONTINUAMENTE+Y+NO+ES+ESTATICO+🚀" alt="Hi there I´m Arturo intrument for changing times" />
 </p>
 
 <div align="center">
