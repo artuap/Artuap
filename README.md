@@ -32,3 +32,5 @@ Based in **Puebla de Los Angeles**, Mexico. 🇲🇽
 ---
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Artuap&show_icons=true&theme=tokyonight" alt="GitHub Stats" />](https://github.com/anuraghazra/github-readme-stats)
+
+![Taylor Controls](https://shields.io)
