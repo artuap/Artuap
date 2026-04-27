@@ -1,3 +1,8 @@
+# Hi there! I'm Arturo (Arte) 👋
+
+<align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Technical+Professional+in+Geomatics;Embedded+Systems+Developer;Precision+Surveying+%26+Topography;Radio+Frequency+Experimenter;Hardware+Interface+Designer" alt="Typing SVG" />
+</align>
 ![](https://shields.io)
 
 
