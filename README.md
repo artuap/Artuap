@@ -16,9 +16,7 @@ Formerly a specialist in **measurement and control instrumentation**, I have piv
 ### 🔭 Technical Expertise & Focus
 * **Embedded Systems:** High-integrity development in **C/C++** and **Python** for automation, instrumentation and IoT.
 * **Precision Hardware:** Specialized in **Optical Absolute Encoders,IMU-INS**  and **EDM (Electromagnetic Distance Measurement)** technologies.
-* **Metrology & Control:** **Geomatic instrumentation Qgis**.
-<img src="https://shields.io">
-
+* **Metrology & Control:** **Geomatic instrumentation on/for Qgis**.
 
 ### 🔧 Technical Toolbox
 * **Languages:** C, C++, Python, C#.
