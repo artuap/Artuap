@@ -4,9 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Technical+Professional+in+Geomatics;Embedded+Systems+Developer;Precision+Surveying+%26+Geodesy;Radio+Frequency+Experimenter;Hardware+Interface+Designer" alt="Typing SVG" />
 </align>
 
-
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
+<a href="https://www.rust-lang.org/">  
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</a>
+    
     <kbd><b>🚀 Bienvenido a mi espacio de desarrollo | Sistemas Embebidos | Geonática | Ham Radio 🛰️</b></kbd>
   </marquee>
 </div>
