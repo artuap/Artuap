@@ -8,7 +8,7 @@
   <marquee behavior="scroll" direction="left" scrollamount="6" width="80%">
 
     
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=micro-dot-it) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)![CodeWarrior](https://img.shields.io/badge/IDE-CodeWarrior-%23FF6600?style=for-the-badge&logo=nxp&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &ensp;  ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=micro-dot-it) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![ESP-IDF](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)![CodeWarrior](https://img.shields.io/badge/IDE-CodeWarrior-%23FF6600?style=for-the-badge&logo=nxp&logoColor=white)
   </marquee>
 </div>
 
